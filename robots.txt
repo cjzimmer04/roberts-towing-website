@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cjzimmer04.github.io/roberts-towing-website/sitemap.xml
